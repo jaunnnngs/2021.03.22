@@ -3,7 +3,8 @@
 내 님을 만날 확률을 계산해주는 프로그램입니다.
 
 포트폴리오보기 >>>>> https://jaunnnngs.github.io/portfolio/ <br>
-피피티보기 >>>>> https://jaunnnngs.github.io/python/
+피피티보기 >>>>> https://jaunnnngs.github.io/python/ <br>
+이메일주소 >>>>> jaunnnngs@naver.com
 
 ![슬라이드1](https://user-images.githubusercontent.com/81130206/132164256-d4a4ee48-f6b8-445a-8c77-30b0fbe2bd0c.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/81130206/132164258-541630af-4305-4c53-a025-6183830fba5d.JPG)
