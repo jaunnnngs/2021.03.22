@@ -4,7 +4,7 @@
 
 발표영상를 보고싶다면 >>>>> https://jaunnnngs21.tistory.com/47 <br>
 포트폴리오보기 >>>>> https://jaunnnngs.github.io/portfolio/ <br>
-피피티보기 >>>>> https://jaunnnngs.github.io/python/ <br>
+피피티보기 >>>>> https://jaunnnngs.github.io/python_project/ <br>
 이메일주소 >>>>> jaunnnngs@naver.com <br>
 블로그 구경가기 >>>>> https://jaunnnngs21.tistory.com/ 
 
